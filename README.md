@@ -1,4 +1,4 @@
-### Hello there, My name is Arvel 🥰🥰
+### Hello there, My name is Arvel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 I am an **Informatics** Engineering Student at Sepuluh Nopember Institute of Technology 🏢🏢
 
@@ -10,11 +10,11 @@ Enjoy your visit folks!!
 
 📙 I’m currently learning on **WEB DEVELOPMENT**...
 
-- 📫 You can reach me via:
-    - [📘 Linkedin](https://www.linkedin.com/in/arvelgavrilla/)  
-    - [📷 Instagram](https://www.instagram.com/arvel_gav/)
-    - [🌐 Blog](https://arvelrgavrilla.blogspot.com/)
-    - [📧 E-Mail](mailto:arvel.gavrilla@gmail.com)
+## 📫 You can reach me via :
+- [📘 Linkedin](https://www.linkedin.com/in/arvelgavrilla/)  
+- [📷 Instagram](https://www.instagram.com/arvel_gav/)
+- [🌐 Blog](https://arvelrgavrilla.blogspot.com/)
+- [📧 E-Mail](mailto:arvel.gavrilla@gmail.com)
      
 ## GITHUB STATS
 <p>
@@ -22,7 +22,14 @@ Enjoy your visit folks!!
   <img src="https://github-readme-stats.vercel.app/api?username=LevraGav&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=algolia" />
 </p>
 
-## GitHub PROFILE TROPHY
+## CODING ACTIVITY
+<p>
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LevraGav&hide_border=true&theme=algolia" /> 
+</p>    
+
+## GITHUB PROFILE TROPHY
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=LevraGav&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
+
+## THANK YOU!
