@@ -16,8 +16,13 @@ Enjoy your visit folks!!
     - [🌐 Blog](https://arvelrgavrilla.blogspot.com/)
     - [📧 E-Mail](mailto:arvel.gavrilla@gmail.com)
      
-## GitHub Stats
+## GITHUB STATS
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevraGav&hide_border=true&theme=algolia" />
   <img src="https://github-readme-stats.vercel.app/api?username=LevraGav&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=algolia" />
+</p>
+
+## GitHub PROFILE TROPHY
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=LevraGav&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
