@@ -33,9 +33,6 @@ Enjoy your visit folks!!
 </p>
 
 ## MUSIC
-<p>
-     <img src="https://spotify-github-profile.vercel.app/api/view?uid=ey2b13yv4kewqudb01ql57ttu&cover_image=true&theme=default" />
-     <img src="https://github.com/kittinan/spotify-github-profile" />
-</p>     
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ey2b13yv4kewqudb01ql57ttu&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=ey2b13yv4kewqudb01ql57ttu&redirect=true)
 
 ## THANK YOU!
