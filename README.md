@@ -32,4 +32,10 @@ Enjoy your visit folks!!
   <img src="https://github-profile-trophy.vercel.app/?username=LevraGav&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
 
+## MUSIC
+<p>
+     <img src="https://spotify-github-profile.vercel.app/api/view?uid=ey2b13yv4kewqudb01ql57ttu&cover_image=true&theme=default" />
+     <img src="https://github.com/kittinan/spotify-github-profile" />
+</p>     
+
 ## THANK YOU!
