@@ -4,7 +4,7 @@ I am an **Informatics** Engineering Student at Sepuluh Nopember Institute of Tec
 
 Here you'll find all of my works, including my projects or anything that caught my interest 💻🎶🎵
 
-Please noted that I'm not better than any of you guys, because i create this account in order to improve my knowledge not flexing about it 😅😅
+Please noted that I'm not better than any of you guys, because i create this account in order to improve my knowledge not flexing about it 😅
 
 Enjoy your visit folks!!
 
