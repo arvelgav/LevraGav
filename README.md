@@ -1,4 +1,4 @@
-### Hello there, My name is Arvel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hello there, My name is Arvel <img src="https://media.giphy.com/media/ekeXXN8CG7xEavr6rP/giphy.gif" width="20px">  <img src="https://media.giphy.com/media/VCst7uRnCOx6asgvqj/giphy.gif" width="20px">
 
 I am an **Informatics** Engineering Student at Sepuluh Nopember Institute of Technology 🏢🏢
 
@@ -26,7 +26,7 @@ Enjoy your visit folks!!
 <br>
 <br>
      
-## GITHUB STATS
+## GITHUB STATS <img src="https://media.giphy.com/media/hveIi2QnjIs180MvjI/giphy.gif" width="50px">
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevraGav&hide_border=true&theme=algolia" />
   <img src="https://github-readme-stats.vercel.app/api?username=LevraGav&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=algolia" />
