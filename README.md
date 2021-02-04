@@ -18,7 +18,7 @@ Enjoy your visit folks!!
   <img align="left" alt="Arvel's Instagram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1612347233~hmac=3b513ea21b101b0d36d81b02e6491415"/>
 </a>
 <a href="https://arvelrgavrilla.blogspot.com/" target="_blank">
-  <img align="left" alt="Arvel's Blog" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/3959/3959542.svg?token=exp=1612347127~hmac=6e436c8b5a4131a0d1621467d14621e5"   />
+  <img align="left" alt="Arvel's Blog" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blogger_icon_2017.svg/1200px-Blogger_icon_2017.svg.png" />
 </a>
 <a href="mailto:arvel.gavrilla@gmail.com" target="_blank">
   <img align="left" alt="Arvel's E-Mail" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1612346988~hmac=1ef3db907c5b17c434f3fd1cb44d72c9"   />
