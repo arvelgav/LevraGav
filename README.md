@@ -32,14 +32,14 @@ Enjoy your visit folks!!
   <img src="https://github-readme-stats.vercel.app/api?username=LevraGav&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=algolia" />
 </p>
 
-## CODING ACTIVITY
+## TOP LANGUAGES
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LevraGav&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevraGav&langs_count=8&theme=algolia" />
 </p>
 
 ## GITHUB PROFILE TROPHY 🏆
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=LevraGav&margin-w=25&margin-h=25&column=7&theme=onedark" />    
+  <img src="https://github-profile-trophy.vercel.app/?username=LevraGav&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
 
 ## MUSIC 🎵
