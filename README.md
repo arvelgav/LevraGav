@@ -34,12 +34,12 @@ Enjoy your visit folks!!
 
 ## CODING ACTIVITY
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LevraGav&v=2&layout=compact&hide_border=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LevraGav&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ## GITHUB PROFILE TROPHY 🏆
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=LevraGav&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+  <img src="https://github-profile-trophy.vercel.app/?username=LevraGav&margin-w=25&margin-h=25&column=7&theme=vision-friendly-dark" />    
 </p>
 
 ## MUSIC 🎵
