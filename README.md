@@ -2,7 +2,7 @@
 
 I am an **Informatics** Engineering Student at Sepuluh Nopember Institute of Technology <img src="https://media.giphy.com/media/cAcofT0wwuRnwZ8PGE/giphy.gif" width="20px">
 
-Here you'll find all of my works, including my projects or anything that caught my interest ❤
+Here you'll find all of my works, including my projects or anything that catch my interest ❤
 
 Please noted that I'm not better than any of you guys, because i create this account in order to improve my knowledge not flexing about it 😅
 
