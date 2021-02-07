@@ -34,7 +34,7 @@ Enjoy your visit folks!!
 
 ## CODING ACTIVITY
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LevraGav&hide_border=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LevraGav&hide_border=true&theme=algolia&v=2" />
 </p>
 
 ## GITHUB PROFILE TROPHY 🏆
