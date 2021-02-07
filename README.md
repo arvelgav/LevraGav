@@ -32,9 +32,9 @@ Enjoy your visit folks!!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevraGav&langs_count=6&theme=highcontrast&hide_border=true" />
 </p>
 
-## Coding Activity
+## CODING ACTIVITY
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LevraGav&hide_border=true&theme=tokyonight" />
+  <img src="https://wakatime.com/share/@LevraGav/114aedc7-f598-437f-a043-aa1e71f5d627.svg" />
 </p>
 
 ## GITHUB PROFILE TROPHY 🏆
