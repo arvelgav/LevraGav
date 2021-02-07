@@ -28,7 +28,6 @@ Enjoy your visit folks!!
      
 ## GITHUB STATS 📈
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevraGav&theme=algolia" />
   <img src="https://github-readme-stats.vercel.app/api?username=LevraGav&line_height=27&count_private=true&show_icons=true&theme=algolia" />
 </p>
 
