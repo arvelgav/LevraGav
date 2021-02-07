@@ -39,7 +39,7 @@ Enjoy your visit folks!!
 
 ## GITHUB PROFILE TROPHY 🏆
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=LevraGav&margin-w=25&margin-h=25&column=7&theme=vision-friendly-dark" />    
+  <img src="https://github-profile-trophy.vercel.app/?username=LevraGav&margin-w=25&margin-h=25&column=7&theme=onedark" />    
 </p>
 
 ## MUSIC 🎵
