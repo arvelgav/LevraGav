@@ -28,12 +28,8 @@ Enjoy your visit folks!!
      
 ## GITHUB STATS 📈
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LevraGav&line_height=27&count_private=true&show_icons=true&theme=algolia" />
-</p>
-
-## TOP LANGUAGES
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevraGav&langs_count=8&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LevraGav&line_height=27&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevraGav&langs_count=8&theme=highcontrast" />
 </p>
 
 ## GITHUB PROFILE TROPHY 🏆
