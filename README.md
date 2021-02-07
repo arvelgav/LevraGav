@@ -32,7 +32,7 @@ Enjoy your visit folks!!
   <img src="https://github-readme-stats.vercel.app/api?username=LevraGav&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=algolia" />
 </p>
 
-## Coding Activity
+## CODING ACTIVITY
 <p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LevraGav&hide_border=true&theme=tokyonight" />
 </p>
