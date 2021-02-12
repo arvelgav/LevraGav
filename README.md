@@ -34,7 +34,7 @@ Enjoy your visit folks!!
 
 ## CODING ACTIVITY
 <p>
-  <img width="500px" height="400px" src="https://wakatime.com/share/@LevraGav/245e37f6-361a-4bf2-88b6-baea701f5c43.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LevraGav&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ## GITHUB PROFILE TROPHY 🏆
