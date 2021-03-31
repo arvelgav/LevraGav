@@ -12,7 +12,7 @@ Enjoy your visit folks!!
 
 ## 📫 You can reach me via :
 <a href="https://www.linkedin.com/in/arvelgavrilla/" target="_blank">
-  <img align="left" alt="Arvel's LinkedIn" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612347350~hmac=63e1870ed7a2728f3d2c34017aff07cf"/>
+  <img align="left" alt="Arvel's LinkedIn" width="30px" src="https://img.icons8.com/color/144/000000/linkedin.png"/>
 </a>
 <a href="https://www.instagram.com/arvel_gav/" target="_blank">
   <img align="left" alt="Arvel's Instagram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1612347233~hmac=3b513ea21b101b0d36d81b02e6491415"/>
