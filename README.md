@@ -29,7 +29,7 @@ Enjoy your visit folks!!
 ## GITHUB STATS 📈
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=LevraGav&line_height=27&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevraGav&langs_count=6&theme=highcontrast&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevraGav&langs_count=8&theme=highcontrast&hide_border=true&layout=compact" />
 </p>
 
 ## CODING ACTIVITY
