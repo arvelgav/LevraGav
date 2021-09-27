@@ -11,19 +11,10 @@ Enjoy your visit folks!!
 📙 I’m currently learning on **WEB DEVELOPMENT**...
 
 ## 📫 You can reach me via :
-<a href="https://www.linkedin.com/in/arvelgavrilla/" target="_blank">
-  <img align="left" alt="Arvel's LinkedIn" width="30px" src="https://img.icons8.com/color/144/000000/linkedin.png"/>
-</a>
-<a href="https://www.instagram.com/arvel_gav/" target="_blank">
-  <img align="left" alt="Arvel's Instagram" width="30px" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>
-</a>
-<a href="https://arvelrgavrilla.blogspot.com/" target="_blank">
-  <img align="left" alt="Arvel's Blog" width="30px" src="https://img.icons8.com/color/144/000000/blogger.png"/>
-</a>
-<a href="mailto:arvel.gavrilla@gmail.com" target="_blank">
-  <img align="left" alt="Arvel's E-Mail" width="30px" src="https://img.icons8.com/clouds/150/000000/apple-mail.png"/>
-</a>
-<br>
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvelgavrilla/)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arvel_gav/)
+[![Blogger Read](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://arvelrgavrilla.blogspot.com/)
+[![Gmail Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvel.gavrilla29@gmail.com)
 <br>
      
 ## GITHUB STATS 📈
