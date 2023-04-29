@@ -12,8 +12,6 @@ Enjoy your visit folks!!
 
 ## 📫 You can reach me via :
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvelgavrilla/)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arvel_gav/)
-[![Blogger Read](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://arvelrgavrilla.blogspot.com/)
 [![Gmail Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvel.gavrilla29@gmail.com)
 [![Telegram Contact](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arvelgav)
 <br>
