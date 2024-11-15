@@ -18,16 +18,16 @@ Enjoy your visit folks!!
      
 ## GITHUB STATS 📈
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LevraGav&line_height=27&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevraGav&langs_count=8&theme=highcontrast&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arvelgav&line_height=27&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvelgav&langs_count=8&theme=highcontrast&hide_border=true&layout=compact" />
 </p>
 
 ## CODING ACTIVITY
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LevraGav&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arvelgav&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ## GITHUB PROFILE TROPHY 🏆
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=LevraGav&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+  <img src="https://github-profile-trophy.vercel.app/?username=arvelgav&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
