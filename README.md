@@ -22,11 +22,6 @@ Enjoy your visit folks!!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvelgav&langs_count=8&theme=highcontrast&hide_border=true&layout=compact" />
 </p>
 
-## CODING ACTIVITY
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arvelgav&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
-
 ## GITHUB PROFILE TROPHY 🏆
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=arvelgav&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
